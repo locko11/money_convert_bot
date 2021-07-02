@@ -10,8 +10,8 @@ from PIL import Image
 import io
 
 
-fx_token = 'MWdKxqvjFC19ecEWBkYY'
-tele_token = '757726714:AAHmiML_JheD3wnGwtMP_qFHvKXnqQ4bCUc'
+fx_token = '***********'    # fxmarketapi toket
+tele_token = '*************'# telegram token
 bot = telebot.TeleBot(tele_token)
 
 
